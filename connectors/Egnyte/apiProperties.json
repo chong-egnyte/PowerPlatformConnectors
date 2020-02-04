@@ -7,7 +7,7 @@
     "connectionParameters": {
       "token": {
         "oAuthSettings": {
-          "clientId": "xx877eb8mujv6dyu23w5v899",
+          "clientId": "add-your-api-key",
           "customParameters": {
             "authorizationUrl": {
               "value": "https://us-partner-integrations.egnyte.com/ms-flow/oauth/code"
